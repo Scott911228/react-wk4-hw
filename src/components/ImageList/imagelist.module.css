@@ -1,0 +1,36 @@
+/* Image Style */
+.image {
+    position: relative;
+    ;
+}
+
+.image__layout {
+    background-color: #fff;
+    font-size: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.image__layout h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image__link {
+    display: block;
+}
+
+.image__style {
+    width: 100%;
+    display: block;
+}
+
+.image_title {
+    color: white;
+    right: 2rem;
+    bottom: 0;
+    font-weight: 800;
+    text-transform: uppercase;
+    position: absolute;
+}

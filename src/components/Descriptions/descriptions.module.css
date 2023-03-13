@@ -1,0 +1,19 @@
+/* Descriptions Style */
+.description__layout {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #00979c;
+    color: white;
+}
+
+.description__layout div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.description__content {
+    text-indent: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
